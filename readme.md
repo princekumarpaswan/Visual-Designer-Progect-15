@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Visual Designer-Page (project-15)](https://seo-page.netlify.app/)
+## [Link to the Visual Designer-Page (project-15)](https://visual-design-page.netlify.app/)
 
 
 ![Completed Website](img1.png)

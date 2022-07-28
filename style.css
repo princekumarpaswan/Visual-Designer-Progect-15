@@ -1,0 +1,298 @@
+*{
+    margin: 0;
+    padding: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    max-width: 210rem;
+  
+}
+body{
+    background-color: #0E0E0E;
+}
+
+.sec1{
+    background-color: #0E0E0E;
+}
+.sec1 nav{
+    display: flex;
+    padding: 50px 100px;
+    align-items: center;
+}
+.sec1 nav ul{
+    margin-left: 1000px;
+    list-style: none;
+}
+.sec1 nav li{
+    color: white;
+    float: left;
+    margin-left: 100px;
+}
+
+.sec1img{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+}
+.sec1img img{
+    margin-left: -800px;
+}
+.sec1img1{
+    margin-top: -110px;
+}
+
+.sec1para{
+    margin-right: -600px;
+    color: white;
+}
+ .sec1para h4{
+    color:#F43141;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.sec1para h1{
+    font-size: 130px;
+    margin-bottom: 10px;
+}
+.sec1para p{
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.sec1para button{
+    width: 200px;
+    background-color: #F43141;
+    color: white;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    font-weight: 600;
+}
+.sec2{
+    display: flex;
+    height: 1100px;
+}
+.sec2right{
+    position: relative;
+    width: 1300px;
+    
+    
+}
+.sec2left{
+    width: 1300px;
+    position: relative;
+    background-color: #111111;
+    
+}
+.sec2grid{
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    z-index: 1;
+    margin-left: -800px;
+    margin-top: 100px;
+    margin-right: 300px;
+}
+
+.sec2grid div{
+    background-color: #2e2d2d77;
+    align-items: center;
+    padding: 50px;
+    z-index: 1;
+    width: 300px;
+    height: 350px;
+    color: white;
+}
+.sec2grid div h3{
+    font-size: 30px;
+    margin-bottom: 50px;
+
+}
+.sec2grid div h5{
+    margin-bottom: 50px;
+    color: #F43141;
+    font-weight: 900;
+    font-size: 20px;
+}
+.sec2grid div p{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.sec2grid div img{
+    margin-bottom: 50px;
+}
+.sec2grid div:hover{
+    background-color: #F43141;
+    cursor: pointer;
+    color: white;
+}
+.sec2grid .sec2pad1:hover{
+    
+   background-color: black;
+   color: white;
+}
+.sec2grid div:hover h5{
+    color: white;
+}
+.free{
+    margin-top: 600px;
+    color: white;
+    margin-left: 200px;
+    text-align: center;
+    padding: 50px;
+}
+.free h1{
+    font-size: 150px;
+    font-weight: 900;
+    color: #F43141;
+}
+.free h2{
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: -15px;
+}
+
+.sec2grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+    row-gap: 50px;
+    margin-left: -200px;
+    margin-top: 100px;
+    margin-right: 460px;
+}
+.sec2grid2 div{
+    background-color:#2e2d2d77;
+    text-align: center;
+    padding: 20px;
+}
+.sec2grid2 h1{
+    color: #F43141;
+    font-size: 60px;
+    font-weight: 900;
+}
+.sec2grid2 p{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.sec3{
+   margin-top: 50px;
+}
+.sec3flex{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    color: white;
+    gap: 700px;
+}
+.h1p{
+    font-size: 35px;
+    font-weight: 600;
+}
+.btnsec3 button{
+    width: 150px;
+    height: 50px;
+    background-color: #F43141;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    border: none;
+}
+.sec4grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+    margin: 10px 200px;
+    align-content: center;
+    
+}
+.sec4grid div img{ 
+    background-color: #2e2d2d77;
+    padding: 100px 45px;
+    align-items: center;
+}
+.img1 img{
+    width: 1010px;
+    height: 500px;
+}
+.img3 img{
+    width: 1010px;
+    height: 500px;
+}
+.sec4grid div h2{
+    margin-top: 10px;
+    color: white;
+    font-size: 40px;
+    font-weight: 900;
+}
+.sec4grid div p{
+    margin-bottom: 30px;
+    color: #F43141;
+    font-size: 25px;
+    font-weight: 900;
+    line-height:35px;
+}
+.sec5{
+    margin-top: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background-color: #2e2d2d77;
+    margin: 0px 300px;
+    padding: 100px 0px;
+    gap: 700px;
+}
+.sec5 div h1{
+    font-size: 70px;
+    font-weight: 600;
+}
+.sec5 div p{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.sec5 div button{
+    background-color: #F43141;
+    margin-top: 110px;
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    border: none;
+}
+footer{
+    margin-top: 100px;
+    color: white;
+}
+.footlist{
+       display: flex;
+       justify-content: center;
+       
+}
+.footlist li{
+      float: left;
+      list-style: none;
+      margin-left: 100px;
+      font-weight: 900;
+      font-size: 20px;
+}
+.footlogo{
+    margin-top: 50px;
+    background-color: #2e2d2d77;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px;
+    gap: 700px;
+}
+.logoimg{
+    margin-left: -850px;
+}
+.footlastimg img{
+    margin-left: 100px;
+    margin-top: 20px;
+}

@@ -14,7 +14,7 @@ By Prince Kr Paswan
 
 - learned section colouring.
 - learned about transparent back .
-- lerned about grid.
+- lerned aboutgrid.
 - Learnd to use css position  property.
 - learned how to add custom fonts.
 - learned about image positioning and image hight.

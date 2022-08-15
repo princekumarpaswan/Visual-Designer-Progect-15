@@ -328,7 +328,10 @@ footer{
 
 @media (max-width: 1000px) {
 
-
+    body{
+        width: 700px;
+        overflow-x: hidden !important;
+    }
 
    
 

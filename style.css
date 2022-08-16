@@ -606,6 +606,8 @@ footer{
     body{
         width: 500px;
         overflow-x: hidden !important;
+        flex-wrap: wrap !important;
+        max-width: 10rem !important;
     }
 
    
@@ -829,7 +831,10 @@ footer{
 }
 .free{
     margin-left: 0px;
-    width: 300px;
+    width: 300px !important;
+}
+.sec2left{
+    width: 400px;
 }
 .free h1{
     font-size: 30px !important;
@@ -853,6 +858,7 @@ footer{
     width: 300px;
     margin: 30px 30px;
 }
+
 
 
 
